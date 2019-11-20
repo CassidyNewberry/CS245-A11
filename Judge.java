@@ -27,7 +27,7 @@ public class Judge{
     }
 
     public static void main (String [] args){
-
+        //this is a test to make sure the findJudge is working
         int [][] trust= new int [2][2];
 
         trust[0][0]=1;
